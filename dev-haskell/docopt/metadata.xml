@@ -10,6 +10,7 @@
 	</use>
 	<upstream>
 		<remote-id type="hackage">docopt</remote-id>
+		<remote-id type="github">docopt/docopt.hs</remote-id>
 		<remote-id type="github">docopt/docopt.hs.git</remote-id>
 	</upstream>
 </pkgmetadata>
